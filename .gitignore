@@ -105,3 +105,4 @@ dist
 
 # execution output files
 tmp/*.html
+*.xlsx
