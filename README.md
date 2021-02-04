@@ -40,12 +40,12 @@ node index.js
 ## 其他
 forked from [alex632/kq](https://github.com/alex632/)     
 
-Alex的v2.0 [alex632/kq](https://github.com/alex632/kq2)      
+Alex的v2.0 [alex632/kq2](https://github.com/alex632/kq2)      
 花春榮v2.0 [s1001001/kq](https://github.com/s1001001/kq)    
 吴永辉的v2.0 [Yonghui1208/kq](https://github.com/Yonghui1208/kq)    
 王洪元的v2.0 [Hongyuan-001/kq](https://github.com/Hongyuan-001/kq)    
-[mamoru1314/NodeJSPractice](https://github.com/mamoru1314/NodeJSPractice)
-[dingdc/goalkeeper](https://github.com/dingdc/goalkeeper)
+[mamoru1314/NodeJSPractice](https://github.com/mamoru1314/NodeJSPractice)    
+[dingdc/goalkeeper](https://github.com/dingdc/goalkeeper)    
 
 # Insights
     Event driven & asynchronism are good. However they are somewhat not easy to comprehend.
